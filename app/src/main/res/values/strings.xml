@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulse Agent</string>
+    <string name="accessibility_label">Pulse Agent</string>
+    <string name="accessibility_description">Pulse 测试代理：读取界面结构并执行测试动作。</string>
+    <string name="notification_channel_name">Pulse Agent</string>
+    <string name="notification_running">Pulse Agent 运行中</string>
+</resources>
